@@ -2,7 +2,7 @@ name: Python Check Style
 on:
   push:
     branches:
-      - news
+      - master
 
 jobs:
   unity:
